@@ -1,5 +1,5 @@
 ---
-title: New titlsdsdf
+title: I'm chaning the title
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
